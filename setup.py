@@ -14,7 +14,7 @@ setuptools.setup(
     description="A twitter tweets spider",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://bitbucket.org/pdainius/twitter-spider",
+    url="https://github.com/Dainius-P/twitter_spider",
     packages=setuptools.find_packages(exclude=["venv"]),
     install_requires=install_requires,
     classifiers=[
